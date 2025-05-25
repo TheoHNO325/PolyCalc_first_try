@@ -1,7 +1,7 @@
 ﻿   Qt/MSBuild: 3.3.1.1
-  Reading Qt configuration (C:/Qt/6.9.0/msvc2022_64/bin/qmake)
    Qt: 6.9.0
-  Poly.cpp
+  uic PolyCalc_first_try.ui
+  moc PolyCalc_first_try.h
   PolyCalc_first_try.cpp
   main.cpp
 C:\Users\xxt\source\repos\PolyCalc_first_try\PolyCalc_first_try\PolyCalc_first_try.cpp(1,1): warning C4828: 文件包含在偏移 0x4c 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
@@ -24,38 +24,24 @@ C:\Users\xxt\source\repos\PolyCalc_first_try\PolyCalc_first_try\PolyCalc_first_t
 C:\Users\xxt\source\repos\PolyCalc_first_try\PolyCalc_first_try\PolyCalc_first_try.cpp(1,1): warning C4828: 文件包含在偏移 0x132 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
 C:\Users\xxt\source\repos\PolyCalc_first_try\PolyCalc_first_try\PolyCalc_first_try.cpp(1,1): warning C4828: 文件包含在偏移 0x14b 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
 C:\Users\xxt\source\repos\PolyCalc_first_try\PolyCalc_first_try\PolyCalc_first_try.cpp(1,1): warning C4828: 文件包含在偏移 0x14c 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
-C:\Users\xxt\source\repos\PolyCalc_first_try\PolyCalc_first_try\Poly.cpp(1,1): warning C4828: 文件包含在偏移 0x166 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
 C:\Users\xxt\source\repos\PolyCalc_first_try\PolyCalc_first_try\PolyCalc_first_try.cpp(1,1): warning C4828: 文件包含在偏移 0x14d 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
-C:\Users\xxt\source\repos\PolyCalc_first_try\PolyCalc_first_try\Poly.cpp(1,1): warning C4828: 文件包含在偏移 0x167 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
 C:\Users\xxt\source\repos\PolyCalc_first_try\PolyCalc_first_try\PolyCalc_first_try.cpp(1,1): warning C4828: 文件包含在偏移 0x14f 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
 C:\Users\xxt\source\repos\PolyCalc_first_try\PolyCalc_first_try\PolyCalc_first_try.cpp(1,1): warning C4828: 文件包含在偏移 0x153 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
 C:\Users\xxt\source\repos\PolyCalc_first_try\PolyCalc_first_try\PolyCalc_first_try.cpp(1,1): warning C4828: 文件包含在偏移 0x155 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
-C:\Users\xxt\source\repos\PolyCalc_first_try\PolyCalc_first_try\Poly.cpp(1,1): warning C4828: 文件包含在偏移 0x1fb 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
 C:\Users\xxt\source\repos\PolyCalc_first_try\PolyCalc_first_try\PolyCalc_first_try.cpp(1,1): warning C4828: 文件包含在偏移 0x156 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
-C:\Users\xxt\source\repos\PolyCalc_first_try\PolyCalc_first_try\Poly.cpp(1,1): warning C4828: 文件包含在偏移 0x1fc 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
 C:\Users\xxt\source\repos\PolyCalc_first_try\PolyCalc_first_try\PolyCalc_first_try.cpp(1,1): warning C4828: 文件包含在偏移 0x157 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
 C:\Users\xxt\source\repos\PolyCalc_first_try\PolyCalc_first_try\PolyCalc_first_try.cpp(1,1): warning C4828: 文件包含在偏移 0x356 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
 C:\Users\xxt\source\repos\PolyCalc_first_try\PolyCalc_first_try\PolyCalc_first_try.cpp(1,1): warning C4828: 文件包含在偏移 0x357 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
 C:\Users\xxt\source\repos\PolyCalc_first_try\PolyCalc_first_try\PolyCalc_first_try.cpp(1,1): warning C4828: 文件包含在偏移 0x35e 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
-C:\Users\xxt\source\repos\PolyCalc_first_try\PolyCalc_first_try\Poly.cpp(1,1): warning C4828: 文件包含在偏移 0x1ff 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
 C:\Users\xxt\source\repos\PolyCalc_first_try\PolyCalc_first_try\PolyCalc_first_try.cpp(1,1): warning C4828: 文件包含在偏移 0x35f 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
-C:\Users\xxt\source\repos\PolyCalc_first_try\PolyCalc_first_try\Poly.cpp(1,1): warning C4828: 文件包含在偏移 0x201 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
 C:\Users\xxt\source\repos\PolyCalc_first_try\PolyCalc_first_try\PolyCalc_first_try.cpp(1,1): warning C4828: 文件包含在偏移 0x362 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
-C:\Users\xxt\source\repos\PolyCalc_first_try\PolyCalc_first_try\Poly.cpp(1,1): warning C4828: 文件包含在偏移 0x202 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
-C:\Users\xxt\source\repos\PolyCalc_first_try\PolyCalc_first_try\Poly.cpp(1,1): warning C4828: 文件包含在偏移 0x206 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
 C:\Users\xxt\source\repos\PolyCalc_first_try\PolyCalc_first_try\PolyCalc_first_try.cpp(1,1): warning C4828: 文件包含在偏移 0x363 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
 C:\Users\xxt\source\repos\PolyCalc_first_try\PolyCalc_first_try\PolyCalc_first_try.cpp(1,1): warning C4828: 文件包含在偏移 0x366 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
-C:\Users\xxt\source\repos\PolyCalc_first_try\PolyCalc_first_try\Poly.cpp(1,1): warning C4828: 文件包含在偏移 0x207 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
 C:\Users\xxt\source\repos\PolyCalc_first_try\PolyCalc_first_try\PolyCalc_first_try.cpp(1,1): warning C4828: 文件包含在偏移 0x367 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
-C:\Users\xxt\source\repos\PolyCalc_first_try\PolyCalc_first_try\Poly.cpp(1,1): warning C4828: 文件包含在偏移 0x209 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
 C:\Users\xxt\source\repos\PolyCalc_first_try\PolyCalc_first_try\PolyCalc_first_try.cpp(1,1): warning C4828: 文件包含在偏移 0x39e 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
-C:\Users\xxt\source\repos\PolyCalc_first_try\PolyCalc_first_try\Poly.cpp(1,1): warning C4828: 文件包含在偏移 0x20b 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
 C:\Users\xxt\source\repos\PolyCalc_first_try\PolyCalc_first_try\PolyCalc_first_try.cpp(1,1): warning C4828: 文件包含在偏移 0x3a0 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
-C:\Users\xxt\source\repos\PolyCalc_first_try\PolyCalc_first_try\Poly.cpp(1,1): warning C4828: 文件包含在偏移 0x20c 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
 C:\Users\xxt\source\repos\PolyCalc_first_try\PolyCalc_first_try\PolyCalc_first_try.cpp(1,1): warning C4828: 文件包含在偏移 0x3a2 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
-C:\Users\xxt\source\repos\PolyCalc_first_try\PolyCalc_first_try\Poly.cpp(1,1): warning C4828: 文件包含在偏移 0x20d 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
 C:\Users\xxt\source\repos\PolyCalc_first_try\PolyCalc_first_try\PolyCalc_first_try.cpp(1,1): warning C4828: 文件包含在偏移 0x3a3 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
-C:\Users\xxt\source\repos\PolyCalc_first_try\PolyCalc_first_try\Poly.cpp(1,1): warning C4828: 文件包含在偏移 0x210 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
 C:\Users\xxt\source\repos\PolyCalc_first_try\PolyCalc_first_try\PolyCalc_first_try.cpp(1,1): warning C4828: 文件包含在偏移 0x3a6 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
 C:\Users\xxt\source\repos\PolyCalc_first_try\PolyCalc_first_try\PolyCalc_first_try.cpp(1,1): warning C4828: 文件包含在偏移 0x3a8 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
 C:\Users\xxt\source\repos\PolyCalc_first_try\PolyCalc_first_try\PolyCalc_first_try.cpp(1,1): warning C4828: 文件包含在偏移 0x3a9 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
@@ -78,139 +64,27 @@ C:\Users\xxt\source\repos\PolyCalc_first_try\PolyCalc_first_try\PolyCalc_first_t
 C:\Users\xxt\source\repos\PolyCalc_first_try\PolyCalc_first_try\PolyCalc_first_try.cpp(1,1): warning C4828: 文件包含在偏移 0x5be 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
 C:\Users\xxt\source\repos\PolyCalc_first_try\PolyCalc_first_try\PolyCalc_first_try.cpp(1,1): warning C4828: 文件包含在偏移 0x5bf 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
 C:\Users\xxt\source\repos\PolyCalc_first_try\PolyCalc_first_try\PolyCalc_first_try.cpp(1,1): warning C4828: 文件包含在偏移 0x5c0 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
-C:\Users\xxt\source\repos\PolyCalc_first_try\PolyCalc_first_try\Poly.cpp(1,1): warning C4828: 文件包含在偏移 0x211 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
 C:\Users\xxt\source\repos\PolyCalc_first_try\PolyCalc_first_try\PolyCalc_first_try.cpp(1,1): warning C4828: 文件包含在偏移 0x781 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
 C:\Users\xxt\source\repos\PolyCalc_first_try\PolyCalc_first_try\PolyCalc_first_try.cpp(1,1): warning C4828: 文件包含在偏移 0x782 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
 C:\Users\xxt\source\repos\PolyCalc_first_try\PolyCalc_first_try\PolyCalc_first_try.cpp(1,1): warning C4828: 文件包含在偏移 0x789 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
 C:\Users\xxt\source\repos\PolyCalc_first_try\PolyCalc_first_try\PolyCalc_first_try.cpp(1,1): warning C4828: 文件包含在偏移 0x78a 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
 C:\Users\xxt\source\repos\PolyCalc_first_try\PolyCalc_first_try\PolyCalc_first_try.cpp(1,1): warning C4828: 文件包含在偏移 0x78d 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
-C:\Users\xxt\source\repos\PolyCalc_first_try\PolyCalc_first_try\Poly.cpp(1,1): warning C4828: 文件包含在偏移 0x291 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
 C:\Users\xxt\source\repos\PolyCalc_first_try\PolyCalc_first_try\PolyCalc_first_try.cpp(1,1): warning C4828: 文件包含在偏移 0x78e 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
 C:\Users\xxt\source\repos\PolyCalc_first_try\PolyCalc_first_try\PolyCalc_first_try.cpp(1,1): warning C4828: 文件包含在偏移 0x791 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
-C:\Users\xxt\source\repos\PolyCalc_first_try\PolyCalc_first_try\Poly.cpp(1,1): warning C4828: 文件包含在偏移 0x293 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
 C:\Users\xxt\source\repos\PolyCalc_first_try\PolyCalc_first_try\PolyCalc_first_try.cpp(1,1): warning C4828: 文件包含在偏移 0x792 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
-C:\Users\xxt\source\repos\PolyCalc_first_try\PolyCalc_first_try\Poly.cpp(1,1): warning C4828: 文件包含在偏移 0x297 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
 C:\Users\xxt\source\repos\PolyCalc_first_try\PolyCalc_first_try\PolyCalc_first_try.cpp(1,1): warning C4828: 文件包含在偏移 0x7c9 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
-C:\Users\xxt\source\repos\PolyCalc_first_try\PolyCalc_first_try\Poly.cpp(1,1): warning C4828: 文件包含在偏移 0x299 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
 C:\Users\xxt\source\repos\PolyCalc_first_try\PolyCalc_first_try\PolyCalc_first_try.cpp(1,1): warning C4828: 文件包含在偏移 0x7cb 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
-C:\Users\xxt\source\repos\PolyCalc_first_try\PolyCalc_first_try\Poly.cpp(1,1): warning C4828: 文件包含在偏移 0x29a 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
 C:\Users\xxt\source\repos\PolyCalc_first_try\PolyCalc_first_try\PolyCalc_first_try.cpp(1,1): warning C4828: 文件包含在偏移 0x7cd 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
-C:\Users\xxt\source\repos\PolyCalc_first_try\PolyCalc_first_try\Poly.cpp(1,1): warning C4828: 文件包含在偏移 0x29c 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
 C:\Users\xxt\source\repos\PolyCalc_first_try\PolyCalc_first_try\PolyCalc_first_try.cpp(1,1): warning C4828: 文件包含在偏移 0x7ce 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
-C:\Users\xxt\source\repos\PolyCalc_first_try\PolyCalc_first_try\Poly.cpp(1,1): warning C4828: 文件包含在偏移 0x29d 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
 C:\Users\xxt\source\repos\PolyCalc_first_try\PolyCalc_first_try\PolyCalc_first_try.cpp(1,1): warning C4828: 文件包含在偏移 0x7d1 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
-C:\Users\xxt\source\repos\PolyCalc_first_try\PolyCalc_first_try\Poly.cpp(1,1): warning C4828: 文件包含在偏移 0x29f 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
 C:\Users\xxt\source\repos\PolyCalc_first_try\PolyCalc_first_try\PolyCalc_first_try.cpp(1,1): warning C4828: 文件包含在偏移 0x7d3 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
-C:\Users\xxt\source\repos\PolyCalc_first_try\PolyCalc_first_try\Poly.cpp(1,1): warning C4828: 文件包含在偏移 0x3ec 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
 C:\Users\xxt\source\repos\PolyCalc_first_try\PolyCalc_first_try\PolyCalc_first_try.cpp(1,1): warning C4828: 文件包含在偏移 0x7d4 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
-C:\Users\xxt\source\repos\PolyCalc_first_try\PolyCalc_first_try\Poly.cpp(1,1): warning C4828: 文件包含在偏移 0x3ed 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
 C:\Users\xxt\source\repos\PolyCalc_first_try\PolyCalc_first_try\PolyCalc_first_try.cpp(1,1): warning C4828: 文件包含在偏移 0x7d5 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
-C:\Users\xxt\source\repos\PolyCalc_first_try\PolyCalc_first_try\Poly.cpp(1,1): warning C4828: 文件包含在偏移 0x3f2 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
 C:\Users\xxt\source\repos\PolyCalc_first_try\PolyCalc_first_try\PolyCalc_first_try.cpp(1,1): warning C4828: 文件包含在偏移 0x7d6 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
-C:\Users\xxt\source\repos\PolyCalc_first_try\PolyCalc_first_try\Poly.cpp(1,1): warning C4828: 文件包含在偏移 0x498 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
-C:\Users\xxt\source\repos\PolyCalc_first_try\PolyCalc_first_try\Poly.cpp(1,1): warning C4828: 文件包含在偏移 0x499 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
-C:\Users\xxt\source\repos\PolyCalc_first_try\PolyCalc_first_try\Poly.cpp(1,1): warning C4828: 文件包含在偏移 0x49a 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
-C:\Users\xxt\source\repos\PolyCalc_first_try\PolyCalc_first_try\Poly.cpp(1,1): warning C4828: 文件包含在偏移 0x49e 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
-C:\Users\xxt\source\repos\PolyCalc_first_try\PolyCalc_first_try\Poly.cpp(1,1): warning C4828: 文件包含在偏移 0x4a0 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
-C:\Users\xxt\source\repos\PolyCalc_first_try\PolyCalc_first_try\Poly.cpp(1,1): warning C4828: 文件包含在偏移 0x4a2 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
-C:\Users\xxt\source\repos\PolyCalc_first_try\PolyCalc_first_try\Poly.cpp(1,1): warning C4828: 文件包含在偏移 0x4a4 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
-C:\Users\xxt\source\repos\PolyCalc_first_try\PolyCalc_first_try\Poly.cpp(1,1): warning C4828: 文件包含在偏移 0x4a5 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
-C:\Users\xxt\source\repos\PolyCalc_first_try\PolyCalc_first_try\Poly.cpp(1,1): warning C4828: 文件包含在偏移 0x509 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
-C:\Users\xxt\source\repos\PolyCalc_first_try\PolyCalc_first_try\Poly.cpp(1,1): warning C4828: 文件包含在偏移 0x50a 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
-C:\Users\xxt\source\repos\PolyCalc_first_try\PolyCalc_first_try\Poly.cpp(1,1): warning C4828: 文件包含在偏移 0x50f 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
-C:\Users\xxt\source\repos\PolyCalc_first_try\PolyCalc_first_try\Poly.cpp(1,1): warning C4828: 文件包含在偏移 0x5cf 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
-C:\Users\xxt\source\repos\PolyCalc_first_try\PolyCalc_first_try\Poly.cpp(1,1): warning C4828: 文件包含在偏移 0x5d0 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
-C:\Users\xxt\source\repos\PolyCalc_first_try\PolyCalc_first_try\Poly.cpp(1,1): warning C4828: 文件包含在偏移 0x5d3 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
-C:\Users\xxt\source\repos\PolyCalc_first_try\PolyCalc_first_try\Poly.cpp(1,1): warning C4828: 文件包含在偏移 0x5d5 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
-C:\Users\xxt\source\repos\PolyCalc_first_try\PolyCalc_first_try\Poly.cpp(1,1): warning C4828: 文件包含在偏移 0x5d6 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
-C:\Users\xxt\source\repos\PolyCalc_first_try\PolyCalc_first_try\Poly.cpp(1,1): warning C4828: 文件包含在偏移 0x5da 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
-C:\Users\xxt\source\repos\PolyCalc_first_try\PolyCalc_first_try\Poly.cpp(1,1): warning C4828: 文件包含在偏移 0x5dd 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
-C:\Users\xxt\source\repos\PolyCalc_first_try\PolyCalc_first_try\Poly.cpp(1,1): warning C4828: 文件包含在偏移 0x5df 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
-C:\Users\xxt\source\repos\PolyCalc_first_try\PolyCalc_first_try\Poly.cpp(1,1): warning C4828: 文件包含在偏移 0x5e0 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
-C:\Users\xxt\source\repos\PolyCalc_first_try\PolyCalc_first_try\Poly.cpp(1,1): warning C4828: 文件包含在偏移 0x5e1 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
-C:\Users\xxt\source\repos\PolyCalc_first_try\PolyCalc_first_try\Poly.cpp(1,1): warning C4828: 文件包含在偏移 0x5e2 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
-C:\Users\xxt\source\repos\PolyCalc_first_try\PolyCalc_first_try\Poly.cpp(1,1): warning C4828: 文件包含在偏移 0x682 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
-C:\Users\xxt\source\repos\PolyCalc_first_try\PolyCalc_first_try\Poly.cpp(1,1): warning C4828: 文件包含在偏移 0x685 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
-C:\Users\xxt\source\repos\PolyCalc_first_try\PolyCalc_first_try\Poly.cpp(1,1): warning C4828: 文件包含在偏移 0x6b1 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
-C:\Users\xxt\source\repos\PolyCalc_first_try\PolyCalc_first_try\Poly.cpp(1,1): warning C4828: 文件包含在偏移 0x6b4 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
-C:\Users\xxt\source\repos\PolyCalc_first_try\PolyCalc_first_try\Poly.cpp(1,1): warning C4828: 文件包含在偏移 0x6b7 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
-C:\Users\xxt\source\repos\PolyCalc_first_try\PolyCalc_first_try\Poly.cpp(1,1): warning C4828: 文件包含在偏移 0x6b8 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
-C:\Users\xxt\source\repos\PolyCalc_first_try\PolyCalc_first_try\Poly.cpp(1,1): warning C4828: 文件包含在偏移 0x6b9 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
-C:\Users\xxt\source\repos\PolyCalc_first_try\PolyCalc_first_try\Poly.cpp(1,1): warning C4828: 文件包含在偏移 0x6ba 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
-C:\Users\xxt\source\repos\PolyCalc_first_try\PolyCalc_first_try\Poly.cpp(1,1): warning C4828: 文件包含在偏移 0x6bb 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
-C:\Users\xxt\source\repos\PolyCalc_first_try\PolyCalc_first_try\Poly.cpp(1,1): warning C4828: 文件包含在偏移 0x6c1 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
-C:\Users\xxt\source\repos\PolyCalc_first_try\PolyCalc_first_try\Poly.cpp(1,1): warning C4828: 文件包含在偏移 0x6c2 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
-C:\Users\xxt\source\repos\PolyCalc_first_try\PolyCalc_first_try\Poly.cpp(1,1): warning C4828: 文件包含在偏移 0x6c3 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
-C:\Users\xxt\source\repos\PolyCalc_first_try\PolyCalc_first_try\Poly.cpp(1,1): warning C4828: 文件包含在偏移 0x6c6 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
-C:\Users\xxt\source\repos\PolyCalc_first_try\PolyCalc_first_try\Poly.cpp(1,1): warning C4828: 文件包含在偏移 0x7ff 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
-C:\Users\xxt\source\repos\PolyCalc_first_try\PolyCalc_first_try\Poly.cpp(1,1): warning C4828: 文件包含在偏移 0x800 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
-C:\Users\xxt\source\repos\PolyCalc_first_try\PolyCalc_first_try\Poly.cpp(1,1): warning C4828: 文件包含在偏移 0x804 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
-C:\Users\xxt\source\repos\PolyCalc_first_try\PolyCalc_first_try\Poly.cpp(1,1): warning C4828: 文件包含在偏移 0x805 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
-C:\Users\xxt\source\repos\PolyCalc_first_try\PolyCalc_first_try\Poly.cpp(1,1): warning C4828: 文件包含在偏移 0x80a 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
-C:\Users\xxt\source\repos\PolyCalc_first_try\PolyCalc_first_try\Poly.cpp(1,1): warning C4828: 文件包含在偏移 0x80b 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
-C:\Users\xxt\source\repos\PolyCalc_first_try\PolyCalc_first_try\Poly.cpp(1,1): warning C4828: 文件包含在偏移 0x80d 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
-C:\Users\xxt\source\repos\PolyCalc_first_try\PolyCalc_first_try\Poly.cpp(1,1): warning C4828: 文件包含在偏移 0x848 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
-C:\Users\xxt\source\repos\PolyCalc_first_try\PolyCalc_first_try\Poly.cpp(1,1): warning C4828: 文件包含在偏移 0x849 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
-C:\Users\xxt\source\repos\PolyCalc_first_try\PolyCalc_first_try\Poly.cpp(1,1): warning C4828: 文件包含在偏移 0x84a 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
-C:\Users\xxt\source\repos\PolyCalc_first_try\PolyCalc_first_try\Poly.cpp(1,1): warning C4828: 文件包含在偏移 0x84c 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
-C:\Users\xxt\source\repos\PolyCalc_first_try\PolyCalc_first_try\Poly.cpp(1,1): warning C4828: 文件包含在偏移 0x84d 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
-C:\Users\xxt\source\repos\PolyCalc_first_try\PolyCalc_first_try\Poly.cpp(1,1): warning C4828: 文件包含在偏移 0x858 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
-C:\Users\xxt\source\repos\PolyCalc_first_try\PolyCalc_first_try\Poly.cpp(1,1): warning C4828: 文件包含在偏移 0x85d 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
-C:\Users\xxt\source\repos\PolyCalc_first_try\PolyCalc_first_try\Poly.cpp(1,1): warning C4828: 文件包含在偏移 0x85e 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
-C:\Users\xxt\source\repos\PolyCalc_first_try\PolyCalc_first_try\Poly.cpp(1,1): warning C4828: 文件包含在偏移 0x860 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
-C:\Users\xxt\source\repos\PolyCalc_first_try\PolyCalc_first_try\Poly.cpp(1,1): warning C4828: 文件包含在偏移 0x861 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
-C:\Users\xxt\source\repos\PolyCalc_first_try\PolyCalc_first_try\Poly.cpp(1,1): warning C4828: 文件包含在偏移 0x862 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
-C:\Users\xxt\source\repos\PolyCalc_first_try\PolyCalc_first_try\Poly.cpp(1,1): warning C4828: 文件包含在偏移 0x863 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
-C:\Users\xxt\source\repos\PolyCalc_first_try\PolyCalc_first_try\Poly.cpp(1,1): warning C4828: 文件包含在偏移 0x864 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
-C:\Users\xxt\source\repos\PolyCalc_first_try\PolyCalc_first_try\Poly.cpp(1,1): warning C4828: 文件包含在偏移 0x868 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
-C:\Users\xxt\source\repos\PolyCalc_first_try\PolyCalc_first_try\Poly.cpp(1,1): warning C4828: 文件包含在偏移 0xdfd 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
-C:\Users\xxt\source\repos\PolyCalc_first_try\PolyCalc_first_try\Poly.cpp(1,1): warning C4828: 文件包含在偏移 0xdff 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
-C:\Users\xxt\source\repos\PolyCalc_first_try\PolyCalc_first_try\Poly.cpp(1,1): warning C4828: 文件包含在偏移 0xe02 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
-C:\Users\xxt\source\repos\PolyCalc_first_try\PolyCalc_first_try\Poly.cpp(1,1): warning C4828: 文件包含在偏移 0xe08 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
-C:\Users\xxt\source\repos\PolyCalc_first_try\PolyCalc_first_try\Poly.cpp(1,1): warning C4828: 文件包含在偏移 0xe09 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
-C:\Users\xxt\source\repos\PolyCalc_first_try\PolyCalc_first_try\Poly.cpp(1,1): warning C4828: 文件包含在偏移 0xe0b 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
-C:\Users\xxt\source\repos\PolyCalc_first_try\PolyCalc_first_try\Poly.cpp(1,1): warning C4828: 文件包含在偏移 0xe0c 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
-C:\Users\xxt\source\repos\PolyCalc_first_try\PolyCalc_first_try\Poly.cpp(1,1): warning C4828: 文件包含在偏移 0xe33 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
-C:\Users\xxt\source\repos\PolyCalc_first_try\PolyCalc_first_try\Poly.cpp(1,1): warning C4828: 文件包含在偏移 0xe34 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
-C:\Users\xxt\source\repos\PolyCalc_first_try\PolyCalc_first_try\Poly.cpp(1,1): warning C4828: 文件包含在偏移 0xe35 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
-C:\Users\xxt\source\repos\PolyCalc_first_try\PolyCalc_first_try\Poly.cpp(1,1): warning C4828: 文件包含在偏移 0xe36 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
-C:\Users\xxt\source\repos\PolyCalc_first_try\PolyCalc_first_try\Poly.cpp(1,1): warning C4828: 文件包含在偏移 0xe39 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
-C:\Users\xxt\source\repos\PolyCalc_first_try\PolyCalc_first_try\Poly.cpp(1,1): warning C4828: 文件包含在偏移 0xe3a 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
-C:\Users\xxt\source\repos\PolyCalc_first_try\PolyCalc_first_try\Poly.cpp(1,1): warning C4828: 文件包含在偏移 0xe3c 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
-C:\Users\xxt\source\repos\PolyCalc_first_try\PolyCalc_first_try\Poly.cpp(1,1): warning C4828: 文件包含在偏移 0xe3d 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
-C:\Users\xxt\source\repos\PolyCalc_first_try\PolyCalc_first_try\Poly.cpp(1,1): warning C4828: 文件包含在偏移 0xe3f 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
-C:\Users\xxt\source\repos\PolyCalc_first_try\PolyCalc_first_try\Poly.cpp(1,1): warning C4828: 文件包含在偏移 0xe40 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
-C:\Users\xxt\source\repos\PolyCalc_first_try\PolyCalc_first_try\Poly.cpp(1,1): warning C4828: 文件包含在偏移 0x154b 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
-C:\Users\xxt\source\repos\PolyCalc_first_try\PolyCalc_first_try\Poly.cpp(1,1): warning C4828: 文件包含在偏移 0x154c 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
-C:\Users\xxt\source\repos\PolyCalc_first_try\PolyCalc_first_try\Poly.cpp(1,1): warning C4828: 文件包含在偏移 0x17bb 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
-C:\Users\xxt\source\repos\PolyCalc_first_try\PolyCalc_first_try\Poly.cpp(1,1): warning C4828: 文件包含在偏移 0x17bc 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
-C:\Users\xxt\source\repos\PolyCalc_first_try\PolyCalc_first_try\Poly.cpp(1,1): warning C4828: 文件包含在偏移 0x17be 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
-C:\Users\xxt\source\repos\PolyCalc_first_try\PolyCalc_first_try\Poly.cpp(1,1): warning C4828: 文件包含在偏移 0x17bf 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
-C:\Users\xxt\source\repos\PolyCalc_first_try\PolyCalc_first_try\Poly.cpp(1,1): warning C4828: 文件包含在偏移 0x17c0 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
-C:\Users\xxt\source\repos\PolyCalc_first_try\PolyCalc_first_try\Poly.cpp(1,1): warning C4828: 文件包含在偏移 0x17c4 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
-C:\Users\xxt\source\repos\PolyCalc_first_try\PolyCalc_first_try\Poly.cpp(1,1): warning C4828: 文件包含在偏移 0x17c7 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
-C:\Users\xxt\source\repos\PolyCalc_first_try\PolyCalc_first_try\Poly.cpp(1,1): warning C4828: 文件包含在偏移 0x17c9 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
-C:\Users\xxt\source\repos\PolyCalc_first_try\PolyCalc_first_try\Poly.cpp(1,1): warning C4828: 文件包含在偏移 0x17ca 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
-C:\Users\xxt\source\repos\PolyCalc_first_try\PolyCalc_first_try\Poly.cpp(1,1): warning C4828: 文件包含在偏移 0x1829 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
-C:\Users\xxt\source\repos\PolyCalc_first_try\PolyCalc_first_try\Poly.cpp(1,1): warning C4828: 文件包含在偏移 0x182a 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
-C:\Users\xxt\source\repos\PolyCalc_first_try\PolyCalc_first_try\Poly.cpp(1,1): warning C4828: 文件包含在偏移 0x182b 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
-C:\Users\xxt\source\repos\PolyCalc_first_try\PolyCalc_first_try\Poly.cpp(1,1): warning C4828: 文件包含在偏移 0x182c 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
-C:\Users\xxt\source\repos\PolyCalc_first_try\PolyCalc_first_try\Poly.cpp(1,1): warning C4828: 文件包含在偏移 0x182d 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
-C:\Users\xxt\source\repos\PolyCalc_first_try\PolyCalc_first_try\Poly.cpp(1,1): warning C4828: 文件包含在偏移 0x182e 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
-C:\Users\xxt\source\repos\PolyCalc_first_try\PolyCalc_first_try\Poly.cpp(1,1): warning C4828: 文件包含在偏移 0x182f 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
-C:\Users\xxt\source\repos\PolyCalc_first_try\PolyCalc_first_try\Poly.cpp(1,1): warning C4828: 文件包含在偏移 0x1830 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
-C:\Users\xxt\source\repos\PolyCalc_first_try\PolyCalc_first_try\Poly.cpp(1,1): warning C4828: 文件包含在偏移 0x1836 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
-C:\Users\xxt\source\repos\PolyCalc_first_try\PolyCalc_first_try\Poly.cpp(1,1): warning C4828: 文件包含在偏移 0x1837 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
-C:\Users\xxt\source\repos\PolyCalc_first_try\PolyCalc_first_try\Poly.cpp(1,1): warning C4828: 文件包含在偏移 0x1839 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
-C:\Users\xxt\source\repos\PolyCalc_first_try\PolyCalc_first_try\Poly.cpp(1,1): warning C4828: 文件包含在偏移 0x19b9 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
-C:\Users\xxt\source\repos\PolyCalc_first_try\PolyCalc_first_try\Poly.cpp(1,1): warning C4828: 文件包含在偏移 0x19bb 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
-C:\Users\xxt\source\repos\PolyCalc_first_try\PolyCalc_first_try\Poly.cpp(1,1): warning C4828: 文件包含在偏移 0x19bd 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
-C:\Users\xxt\source\repos\PolyCalc_first_try\PolyCalc_first_try\Poly.cpp(1,1): warning C4828: 文件包含在偏移 0x19bf 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
-C:\Users\xxt\source\repos\PolyCalc_first_try\PolyCalc_first_try\Poly.cpp(1,1): warning C4828: 文件包含在偏移 0x19c0 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
-  qrc_PolyCalc_first_try.cpp
   moc_PolyCalc_first_try.cpp
   正在生成代码
-  Previous IPDB not found, fall back to full compilation.
-  All 368 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  26 of 369 functions ( 7.0%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    19 functions had inline decision re-evaluated but remain unchanged
   已完成代码的生成
   PolyCalc_first_try.vcxproj -> C:\Users\xxt\source\repos\PolyCalc_first_try\PolyCalc_first_try\x64\Release\PolyCalc_first_try.exe

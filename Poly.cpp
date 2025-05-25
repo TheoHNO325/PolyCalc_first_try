@@ -4,6 +4,7 @@
 #include <cstring>
 
 #include <QString>
+#include <QLocale>
 #include <QRegularExpression>
 #include <QDebug>
 #define MAX 1000
@@ -199,24 +200,37 @@ QString PolyCalc::getPoly(QString s, int choose) {
 //		return Show(b);
 //	}
 //}
-
+#include<iostream>
+#include <QDebug>
 QString PolyCalc::getinput(QString sx,int choose) {
 	char a[MAX];
 	string str1 = string(sx.toLocal8Bit());
+
 	strcpy_s(a,MAX, str1.c_str());
 	stack<int> s;
-
+	QLocale locale(QLocale::C);
 	int i = 0;
 	while ('0' <= *(a + i) && *(a + i) <= '9') {
 		s.push(*(a + i) - '0'); i++;
 	}
-	int sum = 0;
-	while (i--) {
-		sum += s.top() * pow(10, i); s.pop();
+	double sum = 0;
+	for (int j = 0; j < i; j++) {
+		sum += s.top() * pow(10, j); s.pop();
+	}
+	if (*(a + i) == '.') {
+		double c = 0.1; i++;
+		while ('0' <= *(a + i) && *(a + i) <= '9') {
+			int tem = *(a + i) - '0';
+			sum += tem * c;
+			i++;
+			c *= 0.1;
+		}
 	}
 	if (choose == 1) x1 = sum;
 	else if (choose == 2) x2 = sum;
-	return QString::number(sum);
+	QString str = QString::number(sum, 'f', 6);
+
+	return str;
 }
 
 int PolyCalc::getCof(char* a) {
@@ -349,6 +363,20 @@ void PolyCalc::Insert(Term* head, int c, int z)
 			break;
 		p = p->next;
 
+	}
+	if (p->zhi == z) {
+		// cout << £¬p->cof << " " << p->zhi << endl;
+		p->cof += c;
+		if (p->cof == 0)
+		{
+			Term* q = head;
+			while (q->next != p)
+				q = q->next;
+			q->next = p->next;
+			delete p;
+			head->data--;
+		}
+		return;
 	}
 	Term* q = new Term(c, z);
 	q->next = p->next;
@@ -483,26 +511,26 @@ Term* PolyCalc::minus(Term*& a, Term*& b)
 	return c;
 }
 
-Term* PolyCalc::multiply(Term*& a, Term*& b)
+Term* PolyCalc:: multiply(Term*& a, Term*& b)
 {
 	Term* p = a->next;
 
+	Term* r = new Term;
 	while (p != NULL)
 	{
-		Term* d = new Term;
 		Term* q = b->next;
 		while (q != NULL)
 		{
-			Insert(d, p->cof * q->cof, p->zhi + q->zhi);
+			Insert(r, p->cof * q->cof, p->zhi + q->zhi);
 			q = q->next;
 		}
-		c = add(c, d);
 		p = p->next;
 	}
-	return c;
+	return r;
 }
 
-int PolyCalc::getValue(Term* head, int x)
+
+double PolyCalc::getValue(Term* head, double x)
 {
 	Term* p = head->next;
 	double sum = 0;
@@ -533,10 +561,11 @@ QString PolyCalc::calmode(int mode, int choose) {
 		str = Show(c);
 	}
 	else if (mode == 5) {
-		int v = 0;
+		double v = 0;
 		if (choose == 1) v = getValue(a, x1);
 		else if (choose == 2) v = getValue(b, x2);
-		str = QString::number(v);
+		str = QString::number(v, 'f', 6);
+
 	}
 	return str;
 }

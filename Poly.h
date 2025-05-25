@@ -27,7 +27,7 @@ class PolyCalc
 {
 public:
     Term* a, * b, * c;
-    int x1, x2;
+    double x1, x2;
     int init;
 
 public:
@@ -41,7 +41,7 @@ public:
 
     QString Show(Term* head);
 
-    int getValue(Term* head, int x);
+    double getValue(Term* head, double x);
 
     Term* derivative(Term* head);
 

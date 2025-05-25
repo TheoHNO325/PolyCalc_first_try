@@ -32,6 +32,7 @@ private slots:
 
     void on_clear2_clicked();
 
+
 private:  
     Ui::PolyCalc_first_try* ui; // Fix: Update the pointer type to match the corrected class name  
     PolyCalc c;  
